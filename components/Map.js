@@ -67,6 +67,7 @@ function Map({ searchResult }) {
               closeOnClick={true}
               latitude={result.lat}
               longitude={result.long}
+              anchor="top"
             >
               <img className="h-52 w-52 rounded-lg" src={result.img} alt="" />
             </Popup>
