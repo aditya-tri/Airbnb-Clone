@@ -26,11 +26,13 @@ function Footer() {
         <p>Presents</p>
         <p>Airbnb clone</p>
         <p>Build with react</p>
+        <p>Community Centre</p>
+        <p>Resource Centre</p>
       </div>
 
       <div className="space-y-4 text-xs">
         <h5 className="font-bold">CONTACT</h5>
-        <p>Medan city, North Sumatera, Indonesia, 20124</p>
+        <p>Medan City, North Sumatera, Indonesia, 20124</p>
         <p>adityatri2014@gmail.com</p>
         <p className="hover:underline">
           <Link href="https://www.linkedin.com/in/adityatrisakti/">
